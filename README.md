@@ -2,7 +2,7 @@ The goal of this supervised ML project is to classify a text news as "Fake" or "
 
 **Data:**
  * Kaggle's Fake News dataset. 
- * It contains over 20k observations across 5 column (Id, Title, Author, Text and Label)
+ * It contains over 20k observations across 5 columns (Id, Title, Author, Text and Label)
  * The datasest has been retrieved to Google collab notebook using Kaggle's API.
  
 **Steps & Modules:**
